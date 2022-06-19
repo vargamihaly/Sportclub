@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MCVPymCk7RHzj/dQbooSySy7mIdMMm8qMLHeGV2Rr2QuofzmkrNKikmmLzRFOxOQrjMF7QjNn/bigMq5DaApg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mihaly\\source\\repos\\Rendelesek\\Rendelesek\\Rendelesek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihaly\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\Mihaly\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
